@@ -1,7 +1,7 @@
 #include <iostream>
+#include "func.h"
 using namespace std;
-int main()
+int main(int argc, char* argv[])
 {
-cout<<"Hello world!";
-return 0;
+	print();
 }

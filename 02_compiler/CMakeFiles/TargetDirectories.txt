@@ -1,0 +1,4 @@
+C:/Users/Zver/2022-polytech-gaifullin/02_compiler/CMakeFiles/func.dir
+C:/Users/Zver/2022-polytech-gaifullin/02_compiler/CMakeFiles/hello_world.dir
+C:/Users/Zver/2022-polytech-gaifullin/02_compiler/CMakeFiles/ALL_BUILD.dir
+C:/Users/Zver/2022-polytech-gaifullin/02_compiler/CMakeFiles/ZERO_CHECK.dir
